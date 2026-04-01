@@ -19,10 +19,6 @@
 
 ---
 
-
-
----
-
 ### 📌 Connect
 
 - LinkedIn: https://www.linkedin.com/in/kavin-raj-singh  
