@@ -14,8 +14,21 @@
 
 ### 🔧 Skills
 
-- C++ | DSA  
-- Python | SQL | AWS (Beginner)  
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/>
+</div>
 
 ---
 
