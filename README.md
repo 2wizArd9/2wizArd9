@@ -27,11 +27,13 @@
 ---
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2wizArd9&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=2wizArd9&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=2wizArd9&theme=radical&hide_border=true" height="150"/>
 </div>
 
+---
 ---
