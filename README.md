@@ -46,4 +46,12 @@
   <img src="https://streak-stats.demolab.com?user=2wizArd9&theme=radical&hide_border=true" height="150"/>
 </div>
 ---
+
+### 🐍 Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2wizArd9/2wizArd9/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/2wizArd9/2wizArd9/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
