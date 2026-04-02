@@ -12,10 +12,6 @@
 
 ---
 
-### 🔧 Skills
-
----
-
 ### 🧰 Tech Stack
 
 <div align="center">
