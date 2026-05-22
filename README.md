@@ -116,13 +116,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    alt="GitHub contribution snake (light)"
-    src="https://raw.githubusercontent.com/2wizArd9/2wizArd9/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</p>
 
 ---
 
@@ -137,7 +130,6 @@
 
 ---
 
-## 🚀 Featured Projects
 
 <!-- Pin cards: live and placement-ready -->
 ## 🚀 Featured Projects
