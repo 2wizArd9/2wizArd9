@@ -202,7 +202,6 @@
 </table>
 
 </div>
-> Note: If pin cards show blanks, replace `repo=` with actual repo names (GitHub auto-pin slots depend on your account settings).
 
 ---
 
