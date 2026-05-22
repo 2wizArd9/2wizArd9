@@ -140,24 +140,68 @@
 ## 🚀 Featured Projects
 
 <!-- Pin cards: live and placement-ready -->
-<p align="center">
-  <a href="https://github.com/2wizArd9?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=2wizArd9&repo=&theme=radical"
-      alt="Featured Project"
-    />
-  </a>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/2wizArd9?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=2wizArd9&repo=&theme=radical&hide_border=true"
-      alt="Featured Project 2"
-    />
-  </a>
-</p>
+<div align="center">
 
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔍 Veritas AI — Hybrid AI Fake News Detection
+
+🚀 AI-powered misinformation detection platform combining Machine Learning, live verification, trusted-source analysis, and semantic similarity matching for accurate REAL/FAKE prediction.
+
+### ✨ Features
+- Hybrid AI scoring engine
+- Live news verification using NewsAPI
+- Trusted-source analysis
+- Semantic similarity matching
+- Interactive analytics dashboard
+- Prediction history tracking
+
+### 🛠 Tech Stack
+`Python` `Flask` `Scikit-learn` `NLP` `NewsAPI` `Plotly` `HTML` `CSS` `JavaScript`
+
+### 📌 Highlights
+- Reduced false positives using trusted-source override logic
+- Integrated real-time verification with ML predictions
+- Responsive analytics dashboard with Plotly visualizations
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚨 FraudLab — AI Fraud Detection System
+
+🔹 AI-powered fraud detection system using Autoencoder Neural Networks, Isolation Forest, and Random Forest models for real-time fraudulent transaction detection and analytics.
+
+### ✨ Features
+- Real-time fraud prediction
+- CSV transaction analysis
+- Interactive analytics dashboard
+- Fraud probability scoring
+- SHAP explainability
+- Dark/Light modern UI
+
+### 🛠 Tech Stack
+`Python` `TensorFlow` `Keras` `Scikit-learn` `Streamlit` `Plotly` `Pandas` `NumPy`
+
+### 📌 Highlights
+- Hybrid anomaly detection pipeline
+- Explainable AI using SHAP visualizations
+- Real-time fraud analytics dashboard
+- Interactive responsive UI
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 > Note: If pin cards show blanks, replace `repo=` with actual repo names (GitHub auto-pin slots depend on your account settings).
 
 ---
