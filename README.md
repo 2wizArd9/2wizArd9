@@ -258,7 +258,7 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true"
     alt="Top Languages"
   />
 </p>
