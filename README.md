@@ -236,6 +236,7 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
 | Open Source Learner | Consistent practice through real-world contributions and code reviews. |
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -248,7 +249,8 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=2wizArd9&theme=gruvbox&hide_border=true"
+    height="180"
+    src="https://streak-stats.demolab.com?user=2wizArd9&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub streak stats"
   />
 </p>
@@ -258,7 +260,7 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
@@ -271,9 +273,11 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
     alt="Contribution graph"
   />
 </p>
+
 ---
 
 ## 🐍 Snake Animation
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/2wizArd9/2wizArd9/output/github-contribution-grid-snake-dark.svg"
@@ -281,6 +285,7 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
   />
 </p>
 
+---
 ---
 
 ## 🤝 Connect
