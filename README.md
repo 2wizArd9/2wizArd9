@@ -121,7 +121,6 @@ I enjoy transforming ideas into systems that are not only technically strong, bu
 
 <div align="center">
 
-## 💻 Tech Stack
 
 ### Frontend / UI
 
@@ -236,7 +235,7 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
 | Open Source Learner | Consistent practice through real-world contributions and code reviews. |
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+
 
 <p align="center">
   <img
@@ -255,17 +254,17 @@ Focused on scalable fraud detection systems using data-driven behavioral intelli
   />
 </p>
 
+
 <br/>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2wizArd9&layout=compact&theme=gruvbox&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
-<br/>
 
 <p align="center">
   <img
